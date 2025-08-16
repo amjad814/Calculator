@@ -1,5 +1,5 @@
 # Calculator
-a simple calculator program in python (beginner level project)
+A simple calculator program in python (beginner level project)
 
 This is beginner calculator program written in python.
 its supports:
@@ -7,7 +7,7 @@ its supports:
 - Subtraction
 - Multiplication
 - Division(with zero division error handling)
-## how to run
+## How To Run
 1. Install python if not already installed.
 2. Download the "calculator.py" file.
 3. Run the program.
