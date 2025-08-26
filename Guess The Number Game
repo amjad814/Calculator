@@ -1,0 +1,10 @@
+Guess The Number Game
+This is a simple python game where the computer randomly select a number between 1 and 100.and player has to guess it.
+How To Play
+Run the program
+Enter yoyr guess(1 to 100)
+the program will tell you if your guess is to high or to low.
+keep guessing untill you find the correct number.
+
+
+This is one of my basic python projects uploaded for learning and practice.
